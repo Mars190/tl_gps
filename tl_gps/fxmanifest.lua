@@ -1,8 +1,8 @@
 fx_version "cerulean"
 game "gta5"
 
-author "Marc + Lasse"
-description "/gps, markiert Plz"
+author "Marc"
+description "/gps, set a waypoint to a given zip code, based on the oulsen_satmap"
 version "working in Esx 1.2"
 
 client_scripts {

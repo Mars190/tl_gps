@@ -1,4 +1,7 @@
-# tl_gps
-Only working with oulsen_satmpa
+# tl_gps by 𝓜𝓪𝓻𝓬#0001\
+## Only working with oulsen_satmap\
 
-Created by Sahrpor#3032 and 𝓜𝓪𝓻𝓬#0001
+I once had a server with many scripts and now I don't need them anymore I will make some of them public.\
+You can use this script in any way and edit it without my consent.\
+
+# If you use newer versions of ESX, you may need to edit the esx:getSharedObject, whihc you can find on the official esx site
